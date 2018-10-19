@@ -2,7 +2,7 @@
 This projects shows how to write a code to blink the LED on an Arduino, using Bolt remote serial API.
 
 To setup the project follow these steps:
-* Click <a href=https://github.com/Inventrom/boltiot-arduino-helper/archive/master.zip>here</a> to download the BoltIoT-Arduino-Helper library
+* Click <a href=https://github.com/Inventrom/boltiot-arduino-helper/archive/master.zip>here</a> to download the <a href="https://github.com/Inventrom/boltiot-arduino-helper" target="_blank">BoltIoT-Arduino-Helper</a> library
 * In the Arduino IDE go to ```Sketch->Include Library->Add .Zip library```, select the zip file downloaded in the earlier step and click choose.
 * Download the code.
 * Open the ino file 'Arduino_Led_Blink' via the Arduino IDE.
